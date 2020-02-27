@@ -1,0 +1,12 @@
+food = "popcorn"
+is_delicious = true
+food = "spinach"
+
+num2 = 20
+num7 = 56
+quotient = num7/num2
+
+songs = ["Is this love", "Could you be loved", "One Love"]
+songs.slice!(0)
+
+food.length()
